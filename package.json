@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2",
+    "solium": "^1.2.5"
+  }
+}
